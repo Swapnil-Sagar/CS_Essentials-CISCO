@@ -69,6 +69,76 @@ Modern Terms:
                     
 5)State- Sponsored - Depending on the persons perspective these are either white hat hackers or black hat hackers who steals 
                       govt secrets, gather intelligence, and sabotage networks. Their targets are foreign govenments, terrorist
-                      groups, and corporations 
+                      groups, and corporations
+                      
+                      
+
+
+Measures to Thwart (Prevent) cyber crimes:
+
+1) Vulnerability Database : The national common vulnerabilities and exposure (CVE) database is an example of the development of a
+                            national database. The CVE national database was developed to provide a publicly available db of all 
+                            known vulnerabilities 
+                            
+                            https://www.cvedetails.com/
+                            
+2) Early warning systems : The Honeynet Project is an example of creating Early Warning Systems. The project provides a honeymap
+                            which displays realtime visualization of attacks
+                            
+                            https://www.honeynet.org/
+                            
+3) Share Cyber Intelligence - Infraguard is an example of wide spread of cyber intelligence. The infraguard program is a partnership 
+                              between FBI and the Private sector. The participants are dedicated to sharing information & intelligence 
+                              to prevent hostile cyberattacks 
+                              
+                              https://www.infragard.org/
+                              
+ 4) ISM Standards - The ISO/IEC 27000 standards are an example of information security management standards. The standards provide a 
+                     frameworks for implementing cybersecurity measures within an organization.
+                     
+                     http://www.27000.org/
+                     
+ 5) New Laws - The ISCA group tracks laws enacted related to cyber security. These laws can address individual privacy
+               to protection of intellectual property. Example sof these laws includes:CyberSecurity ACt, Federal Exchange Data 
+               Breach Notification Act, Data accountability and trust Act.
+               
+               https://www.isaca.org/credentialing/cybersecurity/csx-packet-analysis-certificate
+              
+             
+ Threats to Internet Services
+ 
+ There are many essential technical services needed for a network, and ultimately the Internet, to operate. These services 
+ include routing, addressing, domain naming, and database management. These services also serve as prime targets for cyber criminals.
+ Criminals use packet-sniffing tools to capture data streams over a network.
+ 
+ Domain Name Service (DNS) translates a domain name, such as www.facebook.com, into its numerical IP address. If a DNS server does
+ not know the IP address, it will ask another DNS server. With DNS spoofing (or DNS cache poisoning), the criminal introduces false
+ data into a DNS resolver’s cache. These poison attacks exploit a weakness in the DNS software that causes the DNS servers to redirect
+ traffic for a specific domain to the criminal’s computer, instead of the legitimate owner of the domain.
+ 
+ Packet forgery (or packet injection) interferes with an established network communication by constructing packets to appear as
+ if they are part of a communication. Packet forgery allows a criminal to disrupt or intercept packets. This process enables the
+ criminal to hijack an authorized connection or denies an individual’s ability to use certain network services. Cyber professionals
+ call this a man-in-the-middle attack.
+ 
+ Over the last decade, cyberattacks like Stuxnet proved that a cyberattack could successfully destroy or interrupt critical 
+ infrastructures. Specifically, the Stuxnet attack targeted the Supervisory Control and Data Acquisition (SCADA) system used 
+ to control and monitor industrial processes. SCADA can be part of various industrial processes in manufacturing, production, 
+ energy and communications systems. Click here to view more information about Stuxnet attack.
+               
+               
+  In the U.S., the National Security Agency (NSA) is responsible for intelligence collection and surveillance activities. 
+  The NSA built a new data center just to process the growing volume of information. In 2015, the U.S. Congress passed the 
+  USA Freedom Act ending the practice of collecting U.S. Citizens’ phone records in bulk. The program provided metadata that
+  gave the NSA information about communications sent and received
+  
+  
+                     
+                     
+                              
+                              
+                            
+
+ 
     
     
