@@ -133,6 +133,68 @@ Measures to Thwart (Prevent) cyber crimes:
   gave the NSA information about communications sent and received
   
   
+  The Impact of Big Data
+  
+  Big data is the result of data sets that are large and complex, making traditional data processing applications inadequate. 
+  Big data poses both challenges and opportunities based on three dimensions:
+
+The volume or amount of data
+The velocity or speed of data
+The variety or range of data types and sources
+
+
+
+Using Advanced Weapons
+
+An advanced persistent threat (APT) is a continuous computer hack that occurs under the radar against a specific object. 
+Criminals usually choose an APT for business or political motives. An APT occurs over a long period with a high degree of 
+secrecy using sophisticated malware.
+
+Algorithm attacks can track system self-reporting data, like how much energy a computer is using, and use that information 
+to select targets or trigger false alerts. Algorithmic attacks can also disable a computer by forcing it to use memory or 
+by overworking its central processing unit. Algorithmic attacks are more devious because they exploit designs used to improve 
+energy savings, decrease system failures, and improve efficiencies.
+
+
+Broader Scope and Cascade Effect
+
+Federated identity management refers to multiple enterprises that let their users use the same identification credentials 
+gaining access to the networks of all enterprises in the group. This broadens the scope and increases the probability of a 
+cascading effect should an attack occur.
+A federated identity links a subject’s electronic identity across separate identity management systems. For example, 
+a subject may be able to log onto Yahoo! with Google or Facebook credentials. This is an example of social login.
+
+The goal of federated identity management is to share identity information automatically across castle boundaries. 
+From the individual user’s perspective, this means a single sign-on to the web
+
+A telephone denial of service (TDoS) attack uses phone calls against a target telephone network tying up the system and 
+preventing legitimate calls from getting through. Next generation 911 call centers are vulnerable because they use 
+Voice-over-IP (VoIP) systems rather than traditional landlines. In addition to TDoS attacks, these call centers can 
+also be at risk of distributed-denial-of-service (DDoS) attacks that use many systems to flood the resources of the 
+target making the target unavailable to legitimate users.
+
+The National Cybersecurity Workforce Framework has seven categories
+
+Operate and Maintain  includes providing the support, administration, and maintenance required to ensure IT system performance and security.
+
+Protect and Defend includes the identification, analysis, and mitigation of threats to internal systems and networks.
+
+Investigate includes the investigation of cyber events and/or cyber crimes involving IT resources.
+
+Collect and Operate includes specialized denial and deception operations and the collection of cybersecurity information.
+
+Analyze includes highly specialized review and evaluation of incoming cybersecurity information to determine if it is useful for intelligence.
+
+Oversight and Development provides for leadership, management, and direction to conduct cybersecurity work effectively.
+
+Securely Provision includes conceptualizing, designing, and building secure IT systems.
+
+
+
+
+
+  
+  
                      
                      
                               
