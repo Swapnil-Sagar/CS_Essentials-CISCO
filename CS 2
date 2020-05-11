@@ -1,0 +1,183 @@
+                                                          The Cybersecurity Cube
+
+
+The first dimension of the Cybersecurity Cube includes the three principles of information security. Cybersecurity 
+professionals refer to the three principles as the CIA Triad. The second dimension identifies the three states of 
+information or data. The third dimension of the cube identifies the expertise required to provide protection. These are 
+often called the three categories of cybersecurity safeguards.
+
+The first dimension of the cybersecurity cube identifies the goals to protect cyberspace. The goals identified in the 
+first dimension are the foundational principles. These three principles are confidentiality, integrity and availability.
+The principles provide focus and enable the cybersecurity expert to prioritize actions when protecting any networked system.
+
+Confidentiality prevents the disclosure of information to unauthorized people, resources, or processes. Integrity refers to
+the accuracy, consistency, and trustworthiness of data. Finally, availability ensures that information is accessible by authorized
+users when needed. Use the acronym CIA to remember these three principles.
+
+
+
+The second dimension of the Cybersecurity Cube focuses on the problems of protecting all of the states of data in cyberspace. 
+Data has three possible states:
+
+Data in transit
+Data at rest or in storage
+Data in process
+The protection of cyberspace requires cybersecurity professionals to account for the safeguarding of data in all three states.
+
+
+
+
+The third dimension of the Cybersecurity Cube defines the skills and discipline a cybersecurity professional can call upon 
+to protect cyberspace. Cybersecurity professionals must use a range of different skills and disciplines available to them when
+protecting the data in the cyberspace. They must do this while remaining on the ‘right side’ of the law.
+
+The Cybersecurity Cube identifies the three types of skills and disciplines used to provide protection. The first skill includes 
+the technologies, devices, and products available to protect information systems and fend off cyber criminals. And rest two are 
+policies and practice, 
+
+
+                                                    CIA Triad
+
+The Principle of Confidentiality
+
+Confidentiality prevents the disclosure of information to unauthorized people, resources and processes. 
+Another term for confidentiality is privacy. Organizations restrict access to ensure that only authorized 
+operators can use data or other network resources. For example, a programmer should not have access to the 
+personal information of all employees.
+
+
+
+Controlling Access
+
+Access control defines a number of protection schemes that prevent unauthorized access to a computer, network, database, 
+or other data resources. The concepts of AAA involve three security services: Authentication, Authorization and Accounting. 
+These services provide the primary framework to control access.
+
+Authentication verifies the identity of a user to prevent unauthorized access. Users prove their identity with a username or 
+ID. In addition, users need to verify their identity by providing one of the following:
+
+Something they know (such as a password)
+Something they have (such as a token or card)
+Something they are (such a fingerprint)
+
+
+Authorization services determine which resources users can access, along with the operations that users can perform. 
+Some systems accomplish this by using an access control list, or an ACL. An ACL determines whether a user has certain 
+access privileges once the user authenticates
+
+Accounting keeps track of what users do, including what they access, the amount of time they access resources, and any changes made.
+
+Cybersecurity accounting tracks and monitors in real time. Websites, like Norse, show attacks in real-time based on data collected
+as part of an accounting or tracking system.
+
+https://norsecorp.com/
+
+
+Laws and Liability
+
+Confidentiality and privacy seem interchangeable, but from a legal standpoint, they mean different things. Most privacy data
+is confidential, but not all confidential data is private.Confidential information has a non-public status. Maintaining 
+confidentiality is more of an ethical duty.
+
+Privacy is the appropriate use of data. When organizations collect information provided by customers or employees, 
+they should only use that data for its intended purpose.
+
+ 
+ 
+ 
+ 
+ Principle of Data Integrity
+ 
+ 
+ Integrity is the accuracy, consistency, and trustworthiness of data during its entire life cycle. Another term for 
+ integrity is quality. Data undergoes a number of operations such as capture, storage, retrieval, update, and transfer. 
+ Data must remain unaltered during all of these operations by unauthorized entities.
+ Methods used to ensure data integrity include hashing, data validation checks, data consistency checks, and access controls. 
+ 
+ An integrity check is a way to measure the consistency of a collection of data (a file, a picture, or a record). The integrity 
+ check performs a process called a hash function to take a snapshot of data at an instant in time.
+ A checksum is one example of a hash function. A checksum verifies the integrity of files, or strings of characters, before and 
+ after they transfer from one device to another across a local network or the Internet. Checksums simply convert each piece of 
+ information to a value and sum the total. To test the data integrity, a receiving system just repeats the process. If the two
+ sums are equal, the data is valid. If they are not equal, a change occurred somewhere along the line.
+ Common hash functions include MD5, SHA-1, SHA-256, and SHA-512.
+ 
+ 
+ 
+ The Principle of Availability
+ 
+ 
+ Data availability is the principle used to describe the need to maintain availability of information systems and services
+ at all times. Cyberattacks and system failures can prevent access to information systems and services.
+ 
+ For example, interrupting the availability of the website of a competitor by bringing it down may provide an advantage 
+ to its rival. These denial-of-service (DoS) attacks threaten system availability and prevent legitimate users from 
+ accessing and using information systems when needed.
+ 
+ Five Nines
+ 
+ High availability ensures a level of performance for a higher than normal period. 
+ High availability systems typically include three design principles:
+
+Eliminate single points of failure - Identify all devices and components in a system that would result in system failure if that 
+                                      device fails. this method includes hot stand-by device, redundant components, multiple 
+                                      connections or pathways.
+Provide for reliable crossover - Reduntant power supply, backup power systems and communications systems all provide a relible 
+                                  crossover
+Detect failures as they occur - Active devices and system monitoring detects many types of events including system and device 
+                                failures. Monitoring system may trigger the backup system in the case of a failure.
+                                
+
+The goal is the ability to continue to operate under extreme conditions, such as during an attack. One of the most popular 
+high availability practices is five nines. The five nines refer to 99.999%. This means that downtime is less than 5.26 
+minutes per year.
+
+Organizations can ensure availability by implementing the following:
+
+Equipment maintenance
+OS and system updates
+Backup testing
+Disaster planning
+New technology implementations
+Unusual activity monitoring
+Availability testing
+
+
+
+                                                          Types of Data Storage
+                                                          
+ Direct-attached storage (DAS) is storage connected to a computer. A hard drive or USB flash drive is an example of 
+ direct-attached storage. By default, systems are not set up to share direct-attached storage.
+ 
+ Redundant array of independent disks (RAID) uses multiple hard drives in an array, which is a method of combining multiple disks so 
+ that the operating system sees them as a single disk. RAID provides improved performance and fault tolerance.
+ 
+ A network attached storage (NAS) device is a storage device connected to a network that allows storage and retrieval of data from a 
+ centralized location by authorized network users. NAS devices are flexible and scalable, meaning administrators can
+ increase the capacity as needed
+ 
+A storage area network (SAN) architecture is a network based storage system. SAN systems connect to the network using 
+high-speed interfaces allowing improved performance and the ability to connect multiple servers to a 
+centralized disk storage repository.
+
+Cloud storage is a remote storage option that uses space on a data center provider and is accessible from any
+computer with Internet access. Google Drive, iCloud, and Dropbox are all examples of cloud storage providers.
+
+
+
+Network storage systems offer a more secure option. Network storage systems including RAID, SAN and NAS provide greater performance
+and redundancy. However, network storage systems are more complicated to configure and manage. They also handle more data, posing 
+a greater risk to the organization if the device fails. The unique challenges of network storage systems include configuring, 
+testing, and monitoring the system.
+
+
+
+Methods of Transmitting Data
+
+Sneaker net – uses removable media to physically move data from one computer to another
+Wired networks – uses cables to transmit data
+Wireless networks – uses radio waves to transmit data
+
+Wired networks include copper-wired and fiber optic media. Wired networks can serve a local geographical area 
+(Local Area Network) or they can span great distances (Wide Area Networks).
+
