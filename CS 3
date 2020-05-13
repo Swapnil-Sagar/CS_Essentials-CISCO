@@ -266,6 +266,32 @@ error messages. For example, the ping command uses ICMP packets to verify that a
 https://www.theguardian.com/public-leaders-network/2015/oct/14/how-to-stop-cyber-attacks-on-your-organisation
 
 
+-------------------------------x-----------------------------------------x-----------------------------------
+
+
+Grayware
+
+Grayware includes applications that behave in an annoying or undesirable manner. Grayware may not have recognizable malware 
+concealed within, but it still may pose a risk to the user. For example, Grayware can track the user’s location.
+
+
+SMiShing
+
+SMiShing is short for SMS phishing. It uses Short Message Service (SMS) to send fake text messages. The criminals trick the user into 
+visiting a website or calling a phone number.
+
+
+Rogue Access Points
+
+A rogue access point is a wireless access point installed on a secure network without explicit authorization. 
+A rogue access point can be set up in two ways. The first is when a well-intentioned employee is trying to be helpful by 
+making it easier to connect mobile devices. The second way is when a criminal gains physical access to an organization by
+sneaking in and installs the rogue access point.
+
+An Evil Twin attack uses the criminal’s access point improved with higher power and higher gain antennas to look like a better 
+connection option for users. After users connect to the evil access point, the criminals can analyze traffic and execute MitM attacks
+
+
 
 
 
