@@ -63,7 +63,7 @@ Something they are (such a fingerprint)
 
 Authorization services determine which resources users can access, along with the operations that users can perform. 
 Some systems accomplish this by using an access control list, or an ACL. An ACL determines whether a user has certain 
-access privileges once the user authenticates
+access privileges once the user authenticates 
 
 Accounting keeps track of what users do, including what they access, the amount of time they access resources, and any changes made.
 
