@@ -1,0 +1,79 @@
+                                                            What is Malware?
+                                                            
+ Malicious software, or malware, is a term used to describe software designed to disrupt computer operations, 
+ or gain access to computer systems, without the user's knowledge or permission.      
+ 
+ Viruses
+
+A virus is malicious executable code attached to another executable file, such as a legitimate program. 
+Most viruses require end-user initiation, and can activate at a specific time or date. Computer viruses usually 
+spread in one of three ways: from removable media; from downloads off the Internet; and from email attachments.
+
+Worms
+
+Worms are malicious code that replicates by independently exploiting vulnerabilities in networks. Worms usually slow down networks.
+Whereas a virus requires a host program to run, worms can run by themselves.
+
+
+Trojan horse
+
+A Trojan horse is malware that carries out malicious operations under the guise of a desired operation such as playing an online game. 
+This malicious code exploits the privileges of the user that runs it. A Trojan horse differs from a virus because the Trojan binds 
+itself to non-executable files, such as image files, audio files, or games.
+
+Logic Bombs
+
+A logic bomb is a malicious program that uses a trigger to awaken the malicious code. For example, triggers can be dates, times, 
+other programs running, or the deletion of a user account. The logic bomb remains inactive until that trigger event happens. 
+Once activated, a logic bomb implements a malicious code that causes harm to a computer. A logic bomb can sabotage database
+records, erase files, and attack operating systems or applications. 
+
+
+Ransomware
+
+Ransomware holds a computer system, or the data it contains, captive until the target makes a payment.
+Ransomware usually works by encrypting data in the computer with a key unknown to the user.
+
+
+Backdoors
+
+A backdoor refers to the program or code introduced by a criminal who has compromised a system. The backdoor bypasses the normal 
+authentication used to access a system. A few common backdoor programs are Netbus and Back Orifice, which both allow remote 
+access to unauthorized system users. The purpose of the backdoor is to grant the cyber criminals future access to the system 
+even if the organization fixes the original vulnerability used to attack the system.
+
+
+Rootkits
+
+A rootkit modifies the operating system to create a backdoor. Attackers then use the backdoor to access the computer remotely. 
+Most rootkits take advantage of software vulnerabilities to perform privilege escalation and modify system files
+
+
+Spam
+
+Spam, also known as junk mail, is unsolicited email.
+
+
+
+Spyware
+
+Spyware is software that enables a criminal to obtain information about a user’s computer activities.
+Spyware often includes activity trackers, keystroke collection, and data capture.
+
+
+
+Adware
+
+Adware typically displays annoying pop-ups to generate revenue for its authors. The malware may analyze user interests by tracking
+the websites visited.
+
+
+Scareware
+
+Scareware persuades the user to take a specific action based on fear. Scareware forges pop-up windows that resemble operating 
+system dialogue windows. These windows convey forged messages stating that the system is at risk or needs the execution of a 
+specific program to return to normal operation. In reality, no problems exist, and if the user agrees and allows the mentioned
+program to execute, malware infects his or her system
+
+
+
