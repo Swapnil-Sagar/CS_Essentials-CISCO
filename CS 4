@@ -1,0 +1,153 @@
+                                      CRYPTOGRAPHY
+                                      
+                                      
+                                      
+Types of Cryptography
+
+Block Ciphers
+
+Block ciphers transform a fixed-length block of plaintext into a common block of ciphertext of 64 or 128 bits. 
+Block size is the amount of data encrypted at any one time. To decrypt this ciphertext, apply the reverse 
+transformation to the ciphertext block, using the same secret key.
+
+
+Stream Ciphers
+
+Unlike block ciphers, stream ciphers encrypt plaintext one byte or one bit at a time
+
+
+
+Symmetric Encryption Algorithms
+
+3DES (Triple DES): Digital Encryption Standard (DES) is a symmetric block cipher with 64-bit block size that uses a 56-bit key. 
+It takes a 64-bit block of plaintext as input and outputs a 64-bit block of ciphertext. 
+
+
+Triple DES encrypts data three times and uses a different key for at least one of the three passes, giving it a cumulative key
+size of 112-168 bits. 3DES is resistant to attack, but it is much slower than DES.
+
+The 3DES encryption cycle is as follows:
+
+1. Data encrypted by first DES
+
+2. Data decrypted by second DES
+
+3. Data re-encrypted by third DES
+
+IDEA: The International Data Encryption Algorithm (IDEA) uses 64-bit blocks and 128-bit keys. IDEA performs eight rounds 
+of transformations on each of the 16 blocks that results from dividing each 64-bit block. IDEA was the replacement for DES, 
+and now PGP (Pretty Good Privacy) uses it.
+
+
+AES: The Advanced Encryption Standard (AES) has a fixed block size of 128-bits with a key size of 128, 192, or 256 bits. 
+The National Institute of Standards and Technology (NIST) approved the AES algorithm in December 2001. The U.S. government 
+uses AES to protect classified information.
+
+
+http://des.online-domain-tools.com/
+
+
+Asymmetric Encryption Algorithms
+
+RSA (Rivest-Shamir-Adleman) - uses the product of two very large prime numbers with an equal length of between 100 and 200 digits. 
+Browsers use RSA to establish a secure connection.
+
+Diffie-Hellman - provides an electronic exchange method to share the secret key. Secure protocols, such as Secure Sockets Layer (SSL),
+Transport Layer Security (TLS), Secure Shell (SSH), and Internet Protocol Security (IPsec), use Diffie-Hellman.
+
+ElGamal - uses the U.S. government standard for digital signatures. This algorithm is free for use because no one holds the patent.
+
+Elliptic Curve Cryptography (ECC) - uses elliptic curves as part of the algorithm. In the U.S., the National Security Agency uses
+ECC for digital signature generation and key exchange.
+
+
+
+Key Management
+
+
+Key management includes the generation, exchange, storage, use, and replacement of keys used in an encryption algorithm.
+
+Two terms used to describe keys are:
+
+Key length - Also called the key size, this is the measure in bits.
+Keyspace - This is the number of possibilities that a specific key length can generate.
+
+
+Four protocols use asymmetric key algorithms:
+
+Internet Key Exchange (IKE), which is a fundamental component of IPsec Virtual Private Networks (VPNs).
+Secure Socket Layer (SSL), which is a means of implementing cryptography into a web browser.
+Secure Shell (SSH), which is a protocol that provides a secure remote access connection to network devices.
+Pretty Good Privacy (PGP), which is a computer program that provides cryptographic privacy and authentication to
+                           increase the security of email communications
+                           
+                           
+ A VPN is a private network that uses a public network, usually the Internet, to create a secure communication channel. 
+ A VPN connects two endpoints such as two remote offices over the Internet to form the connection
+ 
+ 
+ 
+ Physical Access Controls
+Physical access controls are actual barriers deployed to prevent direct contact with systems. The goal is to prevent 
+unauthorized users from gaining physical access to facilities, equipment, and other organizational assets.
+
+Logical Access Controls
+Logical access controls are the hardware and software solutions used to manage access to resources and systems. 
+These technology-based solutions include tools and protocols that computer systems use for identification, authentication, 
+authorization, and accountability.
+
+Logical access controls include the following:
+
+Encryption is the process of taking plaintext and creating ciphertext
+Smart cards have an embedded microchip
+Passwords are protected string of characters
+Biometrics are users’ physical characteristics
+Access Control Lists (ACLs) define the type of traffic allowed on a network
+Protocols are a set of rules that govern the exchange of data between devices
+Firewalls prevent unwanted network traffic
+Routers connect at least two networks
+Intrusion Detection Systems monitor a network for suspicious activities
+Clipping Levels are certain allowed thresholds for errors before triggering a red flag
+
+
+
+Administrative Access Controls
+Administrative access controls are the policies and procedures defined by organizations to implement and enforce all
+aspects of controlling unauthorized access. Administrative controls focus on personnel and business practices.
+
+
+Administrative controls include the following:
+
+Policies are statements of intent
+Procedures are the detailed steps required to perform an activity
+Hiring practices involves the steps an organization takes to find qualified employees
+Background checks are an employment screening that includes information of past employment verification, credit history,
+and criminal history
+Data classification categorizes data based on its sensitivity
+Security training educates employees about the security policies at an organization
+Reviews evaluate an employee’s job performance
+
+
+
+Mandatory Access Control
+Mandatory access control (MAC) restricts the actions that a subject can perform on an object. A subject can be a user or a
+process. An object can be a file, a port, or an input/output device. An authorization rule enforces whether or not a subject
+can access the object.
+
+
+Discretionary Access Control
+An object’s owner determines whether to allow access to an object with discretionary access control (DAC). DAC grants or 
+restricts object access determined by the object’s owner. As the name implies, controls are discretionary because an 
+object owner with certain access permissions can pass on those permissions to another subject.
+
+
+Role-Based Access Control
+Role-based access control (RBAC) depends on the role of the subject. Roles are job functions within an organization. 
+Specific roles require permissions to perform certain operations. Users acquire permissions through their role.
+
+Rule-Based Access Control
+Rule-based access control uses access control lists (ACLs) to help determine whether to grant access. A series of rules is contained 
+in the ACL. The determination of whether to grant access depends on these rules. An example of such a
+rule is one that states that no employee may have access to the payroll file after hours or on weekends.
+
+
