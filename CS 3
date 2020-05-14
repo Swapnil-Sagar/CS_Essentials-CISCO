@@ -180,7 +180,8 @@ https://www.hoax-slayer.com/
 
 Piggybacking / Tailgatng
 
-Piggybacking occurs when a criminal tags along with an authorized person to gain entry into a secure location or a restricted area. Criminals use several methods to piggyback:
+Piggybacking occurs when a criminal tags along with an authorized person to gain entry into a secure location or a
+restricted area. Criminals use several methods to piggyback:
 
 They give the appearance of being escorted by the authorized individual
 They join a large crowd pretending to be a member
@@ -290,6 +291,105 @@ sneaking in and installs the rogue access point.
 
 An Evil Twin attack uses the criminal’s access point improved with higher power and higher gain antennas to look like a better 
 connection option for users. After users connect to the evil access point, the criminals can analyze traffic and execute MitM attacks
+
+
+
+RF Jamming
+
+Wireless signals are susceptible to electromagnetic interference (EMI), radio-frequency interference (RFI), and may even be
+susceptible to lightning strikes or noise from fluorescent lights. Wireless signals are also susceptible to deliberate jamming.
+Radio frequency (RF) jamming disrupts the transmission of a radio or satellite station so that the signal does not reach the
+receiving station.
+
+
+Bluejacking and Bluesnarfing
+
+Bluejacking is the term used for sending unauthorized messages to another Bluetooth device. A variation of this is to send a 
+shocking image to the other device.
+
+
+Bluesnarfing occurs when the attacker copies the victim's information from his device. This information can include 
+emails and contact lists.
+
+
+
+WEP
+
+Wired Equivalent Privacy (WEP) is a security protocol that attempted to provide a wireless local area network (WLAN) with the
+same level of security as a wired LAN. Since physical security measures help to protect a wired LAN, WEP seeks to provide 
+similar protection for data transmitted over the WLAN with encryption.
+
+WEP uses a key for encryption. There is no provision for key management with WEP, so the number of people sharing the key
+will continually grow. Since everyone is using the same key, the criminal has access to a large amount of traffic for analytic attacks.
+
+WEP also has several problems with its initialization vector (IV) which is one of the components of the cryptographic system:
+
+It is a 24-bit field, which is too small.
+It is cleartext, which means it is readable.
+It is static so identical key streams will repeat on a busy network.
+
+
+
+WPA Attacks
+
+Wi-Fi Protected Access (WPA) and then WPA2 came out as improved protocols to replace WEP. WPA2 does not have the same 
+encryption problems because an attacker cannot recover the key by observing traffic. WPA2 is susceptible to attack because 
+cyber criminals can analyze the packets going between the access point and a legitimate user. Cyber criminals use a packet 
+sniffer and then run attacks offline on the passphrase.
+
+
+Cross-Site Scripting
+
+Cross-site scripting (XSS) is a vulnerability found in web applications. XSS allows criminals to inject scripts into the web pages 
+viewed by users. This script can contain malicious code.
+
+
+
+Code Injection
+
+XML and SQL injection attacks exploit weaknesses in the program such as not validating database queries properly.
+
+XML Injection
+
+When using an XML database, an XML injection is an attack that can corrupt the data. Criminals can manipulate the query by 
+programming it to  suit their needs and can access the information on the database.
+
+
+SQL Injection
+
+The cybercriminal exploits a vulnerability by inserting a malicious SQL statement in an entry field.
+
+
+
+Buffer Overflow
+
+A buffer overflow occurs when data goes beyond the limits of a buffer. Buffers are memory areas allocated to an application. 
+By changing data beyond the boundaries of a buffer, the application accesses memory allocated to other processes. This can 
+lead to a system crash, data compromise, or provide escalation of privileges.
+
+
+
+Remote Code Executions
+
+Remote code execution allows a criminal to execute any command on a target machine.
+for example, Metasploit. Metasploit is a tool for developing and executing exploit code against a remote target.
+Meterpreter is an exploit module within Metasploit that provides advanced features. Meterpreter allows criminals
+to write their own extensions as a shared object.
+
+
+
+ActiveX Controls
+
+When browsing the web, some pages may not work properly unless the user installs an ActiveX control. ActiveX controls provide 
+the capability of a plugin to Internet Explorer. ActiveX controls are pieces of software installed by users to provide extended
+capabilities. Third parties write some ActiveX controls and they may be malicious. They can monitor browsing habits, install
+malware, or log keystrokes. ActiveX controls also work in other Microsoft applications.
+
+
+
+
+
+
 
 
 
